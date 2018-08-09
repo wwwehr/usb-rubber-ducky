@@ -22,3 +22,7 @@ docker run -it --rm --name usbrubberducky --volume <ducky script path>:/workspac
 
 Please mount the following volumes inside your SABnzbd container:
 * `/workspace`: Holds all the ducky script files that you will specify with the `-i` argument
+
+## See also
+
+- https://github.com/hak5darren/USB-Rubber-Ducky/wiki
